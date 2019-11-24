@@ -1,0 +1,24 @@
+Blogs:
+https://www.kaggle.com/allunia/how-to-attack-a-machine-learning-model
+https://www.kaggle.com/benhamner/adversarial-learning-challenges-getting-started
+
+
+Datasets:
+https://www.nist.gov/node/1298471/emnist-dataset
+http://yann.lecun.com/exdb/mnist/
+https://www.cs.toronto.edu/~kriz/cifar.html
+
+Libraries:
+https://github.com/tensorflow/cleverhans
+https://github.com/bethgelab/foolbox
+https://adversarial-robustness-toolbox.readthedocs.io/en/latest/
+
+Papers:
+https://arxiv.org/abs/1511.07528
+https://arxiv.org/abs/1602.02697
+https://arxiv.org/abs/1412.6572
+
+Code Base:
+http://www.robots.ox.ac.uk/~aarnab/adversarial_robustness.html
+https://github.com/hmph/adversarial-attacks
+https://github.com/asranand7/Adverserial_Attack

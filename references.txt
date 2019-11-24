@@ -1,0 +1,2 @@
+https://www.kaggle.com/wordroid/usage-cifar-10
+https://stackoverflow.com/questions/42156900/how-to-convert-a-binary-file-to-a-numpy-file
